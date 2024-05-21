@@ -1,0 +1,69 @@
+#include <stdio.h>
+#define MAX 100
+// int main()
+// {
+// int arr[MAX]={0};
+// for(int i=0;i<5;i++)
+// {
+//     arr[i]=0;
+// }
+// for(int j=0;j<5;j++)
+// {
+//     printf("%d ",arr[j]);
+// }
+// printf("\n");
+// return 0;
+// }
+// #define str "abcd"
+// int main()
+// {
+//     printf("%s\n",str);
+//     return 0;
+// }
+//
+#include <string.h>
+
+//
+// int main()
+// {
+// //     char arr[] = "abcd";
+//    char arr1[] = {'z', 'd', 'g','y','\0','t','u','p','\0'};
+// //     printf("%d\n", strlen(arr));
+//    printf("%d\n", strlen(arr1));
+// //     printf("%d\n",sizeof(arr));
+// //     printf("%d\n",sizeof(arr1));
+
+//     return 0; }
+
+// int main()
+// {
+//     int arr[10]={0};
+
+//     int b=1;
+
+//     printf("%p\n%p\n",&b,arr);
+//     return 0;
+// }
+
+// int main()
+// {
+//     //printf("a\ta\n");
+//     //printf("a\va\va\va\va\n");
+//     printf("\a\a\a\a\a\a\a");
+//     printf("\a\a\a\a\a\a\a");
+//     return 0;
+//}
+
+// int main()
+// {
+//     printf("  a \ba\fa\fa\fa\fa  \n");
+//     return 0;
+// }
+int main()
+{
+    //printf("%c\n",'\128');
+   // printf("%s\n","abcd");
+   // printf("%d\n",']');
+     printf("%c\n",49);
+    return 0;
+}
